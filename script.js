@@ -19,5 +19,5 @@ function startTimer() {
 }
 
 function goToSite3() {
-  window.location.href = "https://apply.govtyojanaonline.com/verify.html";
+  window.location.href = "https://dating.govtyojanaonline.com/how-to-get-more-matches-on-dating-apps-fast";
 }
